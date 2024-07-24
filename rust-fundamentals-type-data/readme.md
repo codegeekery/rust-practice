@@ -34,4 +34,7 @@ Nota: Cuales son los tipos de datos. Son primitivos y compuestos
 
 - let con esto podemos crear variables con el cual le guardamos cosas que queramos pueden ser string,numeros,booleanos, esto no puede mutar. a menos que se lo indiques usando mut
 
-
+-------------------------------------------
+Nota: si usamos &str o String. hay diferencias en cuanto su uso. Ambos son cadenas de texto
+solamente se pueden diferenciar que &str es inmutable mientras que las cadenas de texto String son mutables
+-------------------------------------------
